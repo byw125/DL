@@ -1,4 +1,4 @@
-### Hi This is Yewon's repository 👋
+### Hi This is Yewon's page👋
 
 <!--
 **byw125/byw125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
